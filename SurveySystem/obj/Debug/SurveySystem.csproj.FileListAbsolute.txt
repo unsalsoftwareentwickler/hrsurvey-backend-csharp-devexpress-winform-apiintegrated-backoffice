@@ -1,0 +1,9 @@
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.csproj.AssemblyReference.cache
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.Form1.resources
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.Properties.Resources.resources
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.Views.Login.resources
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.Views.SurveyCreate.resources
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.Views.SurveyEdit.resources
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.csproj.GenerateResource.cache
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\obj\Debug\SurveySystem.exe.licenses

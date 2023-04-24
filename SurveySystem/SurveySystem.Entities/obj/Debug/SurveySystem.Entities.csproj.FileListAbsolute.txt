@@ -1,0 +1,6 @@
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\SurveySystem.Entities\bin\Debug\SurveySystem.Entities.dll
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\SurveySystem.Entities\bin\Debug\SurveySystem.Entities.pdb
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\SurveySystem.Entities\obj\Debug\SurveySystem.Entities.csproj.AssemblyReference.cache
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\SurveySystem.Entities\obj\Debug\SurveySystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\SurveySystem.Entities\obj\Debug\SurveySystem.Entities.dll
+C:\Users\ugury\OneDrive\Masaüstü\SurveySystem_17032023\SurveySystem\SurveySystem.Entities\obj\Debug\SurveySystem.Entities.pdb
